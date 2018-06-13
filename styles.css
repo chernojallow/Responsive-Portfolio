@@ -1,0 +1,373 @@
+
+      
+
+
+body {
+    height: 102%;
+    min-width: 960px;
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+    position: relative;
+    border-right: 70px solid black;
+    border-left: 70px solid black;
+    }  
+
+
+  h1 {
+    
+    float:left;
+    background-color:#4aaaa5;
+    text-align: center;
+    margin-left: 110px;
+    margin-bottom:0px;
+    margin-top:0px;
+    padding:15px 15px 15px 15px;
+    
+}
+
+
+.A{
+     border: 2px solid grey;
+     padding:220px 200px  220px 105px;
+     background-color: #cccccc;
+     border-bottom-color:#4aaaa5;
+     border-bottom-width: 10px;
+     clear: left;
+     height:102px;
+     
+    }
+ 
+ .about {
+     border: 2px solid #cccccc;
+     background-color:white;
+     width:960px;
+     padding: 15px 20px 15px 20px;
+     margin-top:-190px;
+     height:400px;
+     
+    }
+
+ 
+ img {
+     float:left;
+     padding-right: 20px;
+ }
+ 
+ h2{
+     border-bottom: 2px solid #cccccc;
+     color: #4aaaa5;
+     padding-bottom: 20px;
+ }
+ 
+ nav{
+     list-style-type:none;
+     float: right;
+     margin-bottom:0px;
+     margin-top: 30px;
+     margin-right: 100px;
+ }
+   li{
+       display: inline;
+   }
+ 
+ footer{
+     background-color:#666666;
+     text-align: center;
+     color:#cccccc;
+     border-bottom-width:30px;
+     height:23px;
+     padding-top:50px;
+     margin-bottom:0px;
+    
+    
+ }
+ 
+ .E{
+     background-color: white;   
+     margin-top:-190px;
+     height:350px;
+     padding: 15px 20px 15px 20px;
+     width: 960px;
+ }
+
+ form{
+     margin-left: -40px;
+ }
+    input{
+      width: 955px;
+ }
+
+   .Line-Height {
+     line-height: 120px;
+     
+ }
+ 
+ text{
+    background-color: #4aaaa5;
+    padding: 8px 15px 8px 15px;
+    color: white;
+
+ }
+ 
+
+ .G{
+     border: 2px solid #cccccc;
+     background-color: white;
+     height: 420px;
+     width: 910px;
+     margin-left: 5px;
+     padding: 40px 40px 40px 40px;
+     margin-top: -200px;
+     
+  }
+ 
+   .Image5{
+      position: relative;
+      top: 250px;
+      right:670px;
+  } 
+    .Image5 .Cascadings{
+      position: absolute;
+      top:70px;
+      right:97px;
+  }
+  
+ 
+  .Image4{
+      position: relative;
+      left: -235px;
+      bottom: -125px;
+  }
+
+  .Image4 .ComputerSC{
+      position: absolute;
+      right: 263px;
+      top: 70px;
+  }
+ 
+  .Image3 {
+      position: relative;
+      left: -335px;
+      bottom: -125px;
+  }
+
+  .Image3 .Javascript{
+      position: absolute;
+      left: 335px;
+      bottom: -98px;
+  }
+ 
+  .Image1 {
+      position: relative;
+    
+  }
+
+  .Image1 .Technology{
+      position: absolute;
+      top: 70px;
+      
+    }
+ 
+  .Image2{
+      position: relative;
+      right: -100px;
+  }
+   .Image2 .DStructure {
+       position: absolute;
+       right:598px;
+       top: 70px;
+   }
+
+
+
+
+
+   @media screen and (max-width: 980px){
+       
+    body{
+        width:100%;
+     
+     
+        
+    }
+    img {
+        width:30%;
+        margin-top:-15px;
+        padding-bottom:7px;
+        
+        
+    }
+     
+    p{
+        width:70%;
+        line-height:1rem;
+        
+         
+    }
+   .A {
+       width:120%;
+       padding-right:600px;
+       
+       
+   }
+   .about{
+       width:100%;
+       height:auto;
+       padding-left:60px;
+       margin-bottom:30px;
+       padding-bottom:3px;
+       margin-left:-80px;
+    
+ 
+   }
+   h1{
+       position:static;
+       margin-left:27px;
+       }
+
+   footer{
+       width:100%;
+
+       
+   }
+
+   nav {
+       width:18%;
+    
+       
+       
+   }
+}
+    
+
+
+
+
+@media screen and (max-width: 768px){
+       
+    body{
+        width:100%;
+     
+     
+        
+    }
+    img {
+        width:20%;
+        margin-top:4px;
+        height:200px;
+        
+        
+        
+    }
+     
+    p{
+        width:50%;
+        line-height:1rem;
+        
+         
+    }
+   .A {
+       width:120%;
+       padding-right:600px;
+       
+       
+   }
+   .about{
+       width:100%;
+       height:auto;
+       padding-left:60px;
+       margin-bottom:30px;
+       padding-bottom:3px;
+       margin-left:-80px;
+ 
+   }
+   h1{
+       position:static;
+       
+       margin-left: 30px;
+   }
+
+   footer{
+       width:75%;
+
+       
+   }
+
+   nav {
+       width:38%;
+      
+       
+       
+   }
+ }
+
+    
+
+
+
+
+
+
+
+
+ 
+   @media screen and (max-width: 640px){
+       
+       body{
+           width:100%;
+        
+        
+           
+       }
+       img {
+           width:32%;
+           margin-top:-15px;
+           padding-bottom:7px;
+           
+           
+       }
+        
+       p{
+           width:35%;
+           line-height:1rem;
+           
+            
+       }
+      .A {
+          width:120%;
+          padding-right:600px;
+          height:auto;
+          
+      }
+      .about{
+          width:100%;
+          height:auto;
+          padding-left:60px;
+          margin-bottom:30px;
+          padding-bottom:3px;
+          margin-left:-80px;
+    
+      }
+      h1{
+          position:static;
+          width:65%;
+          margin-bottom:50px;
+          margin-left: -1px;
+      }
+
+      footer{
+          width:65%;
+
+          
+      }
+
+      nav {
+          width:65%;
+          margin-top:-30px;
+          
+          
+      }
+    }
+
+       
