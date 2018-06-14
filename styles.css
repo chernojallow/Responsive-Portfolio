@@ -187,38 +187,36 @@ body {
        
     body{
         width:100%;
+       
      
      
         
     }
     img {
         width:30%;
-        margin-top:-15px;
         padding-bottom:7px;
         
-        
-    }
+        }
      
     p{
-        width:70%;
-        line-height:1rem;
-        
-         
+        width:100%;
+              
     }
    .A {
        width:120%;
-       padding-right:600px;
+    
+       
        
        
    }
    .about{
-       width:100%;
+       width:40%;
        height:auto;
        padding-left:60px;
        margin-bottom:30px;
        padding-bottom:3px;
        margin-left:-80px;
-    
+       padding:20px;
  
    }
    h1{
@@ -235,10 +233,84 @@ body {
    nav {
        width:18%;
     
+       }
+
+       .E {
+           width:40%;
+           margin-left: -81px;
+           
+       }
+       input {
+           width:100%;
+       }
+
+       .G{
+           width: 30%;
+           margin-left:-80px;
+           padding:20px;
+           padding-bottom:70px;
+          
+       }
+
+       .Image1{
+        width:500px;
+           
+           
+       }
+       .Image1 .Technology{
+        top:56px;
+       }
        
-       
-   }
+       .Image2{
+           right: -10px;
+           width:500px;
+        
+       }
+       .Image2 .DStructure{
+            right:180px;
+            top:55px;
+
+        }
+
+        .Image3{
+        width:500px;
+        left:1px;
+        top:15px;
+        }
+        
+        .Image3 .Javascript{
+         left:3px;
+         bottom:-190px;
+        }
+
+        .Image4{
+            width:500px;
+            left:10px;
+            top:20px;
+
+        }
+        .Image4 .ComputerSC{
+        top: 155px;
+        right: 180px;
+        }
+
+       .Image5{
+           width:500px;
+           top:30px;
+           right:-1px;
+       }
+
+       .Image5 .Cascadings{
+         top:260px;
+         right: 350px;
+       }
+    
+
+
+
 }
+
+
     
 
 
@@ -253,16 +325,14 @@ body {
         
     }
     img {
-        width:20%;
+        width:40%;
         margin-top:4px;
         height:200px;
-        
-        
         
     }
      
     p{
-        width:50%;
+        width:100%;
         line-height:1rem;
         
          
@@ -274,13 +344,14 @@ body {
        
    }
    .about{
-       width:100%;
+       width:50%;
        height:auto;
        padding-left:60px;
        margin-bottom:30px;
        padding-bottom:3px;
        margin-left:-80px;
- 
+       padding:20px;
+
    }
    h1{
        position:static;
@@ -295,11 +366,77 @@ body {
    }
 
    nav {
-       width:38%;
+       width:40%;
       
-       
-       
-   }
+       }
+
+       .E{
+           width:50%;
+           margin-left: -73px;
+       }
+
+       input{
+           width:100%;
+       }
+
+       .G{
+        width:40%;
+        margin-left:-80px;
+        
+    }
+
+    .Image1{
+       weight:500px; 
+       height: 100%;
+    }
+    .Image1 .Technology{
+     top:56px;
+    }
+    
+    .Image2{
+        right: -100px;
+        width:500px;
+    }
+    .Image2 .DStructure{
+         right:180px;
+         top:55px;
+
+     }
+
+     .Image3{
+     width:500px;
+     left:1px;
+     top:30px;
+     }
+     
+     .Image3 .Javascript{
+      left:3px;
+      bottom:-190px;
+     }
+
+     .Image4{
+         width:500px;
+         left:100px;
+         top:50px;
+
+     }
+     .Image4 .ComputerSC{
+     top: 155px;
+     right: 180px;
+     }
+
+    .Image5{
+        width:500px;
+        top:40px;
+        right:-1px;
+    }
+
+    .Image5 .Cascadings{
+      top:260px;
+      right: 350px;
+    }
+ 
+
  }
 
     
@@ -321,7 +458,7 @@ body {
            
        }
        img {
-           width:32%;
+           width:100%;
            margin-top:-15px;
            padding-bottom:7px;
            
@@ -329,7 +466,7 @@ body {
        }
         
        p{
-           width:35%;
+           width:100%;
            line-height:1rem;
            
             
@@ -341,13 +478,10 @@ body {
           
       }
       .about{
-          width:100%;
+          width:30%;
           height:auto;
-          padding-left:60px;
-          margin-bottom:30px;
-          padding-bottom:3px;
-          margin-left:-80px;
-    
+          padding:20px;
+          margin-left: 20px;
       }
       h1{
           position:static;
@@ -365,9 +499,20 @@ body {
       nav {
           width:65%;
           margin-top:-30px;
-          
-          
       }
+        
+          .E{
+              width:400px;
+              margin-left: -40px;
+            
+          }
+
+          input{
+              width:100%;
+          }
+      
+      
+      
     }
 
        
