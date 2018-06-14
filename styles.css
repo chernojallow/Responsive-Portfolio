@@ -538,7 +538,7 @@ body {
         }
 
     .Image1{
-        width:70%; 
+        width:95%; 
         padding-top:10px;
         
         
@@ -548,13 +548,13 @@ body {
      }
 
      .Technology{
-        letter-spacing: 9.5px;
+        letter-spacing: 18px;
     }
 
      
      .Image2{
+         width:95%;
          right:0px;
-         width:70%;
          top:20px;
      }
      .Image2 .DStructure{
@@ -564,12 +564,12 @@ body {
      }
       
      .DStructure{
-        letter-spacing: 9.5px;
+        letter-spacing: 18px;
     }
 
  
       .Image3{
-      width:70%;
+      width:95%;
       left:1px;
       top:40px;
       
@@ -581,11 +581,11 @@ body {
       }
 
       .Javascript{
-        letter-spacing: 8.5px;
+        letter-spacing: 16.5px;
     }
  
       .Image4{
-          width:70%;
+          width:95%;
           left:0px;
           top:60px;
          }
@@ -596,12 +596,12 @@ body {
       }
 
       .ComputerSC{
-          letter-spacing: 10.5px;
+          letter-spacing: 20px;
       }
  
 
      .Image5{
-         width:70%;
+         width:95%;
          top:80px;
          right:-1px;
          
@@ -614,7 +614,7 @@ body {
        
      }
       .Cascadings{
-        letter-spacing: 11px;
+        letter-spacing: 20px;
       }
  
   }
