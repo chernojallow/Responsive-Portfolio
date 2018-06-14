@@ -387,6 +387,7 @@ body {
         margin-left: -80px;
         padding: 20px;
         height:780px;
+        padding-right:1px;
 
         
     }
@@ -402,7 +403,7 @@ body {
     .Image2{
 
         width:80%;
-        right:-100px;
+        right:-30px;
         
     }
     .Image2 .DStructure{
@@ -413,7 +414,7 @@ body {
 
      .Image3{
      width:80%;
-     left:1px;
+     left: 1px;
      top:30px;
      
      }
@@ -425,7 +426,7 @@ body {
 
      .Image4{
          width:80%;
-         left:100px;
+         left:30px;
          top:30px;
         
          }
@@ -437,7 +438,7 @@ body {
 
     .Image5{
         width:80%;
-        top:40px;
+        top:55px;
         right:-1px;
         
         
@@ -466,7 +467,7 @@ body {
        
        body{
            width:100%;
-        
+    
         
            
        }
