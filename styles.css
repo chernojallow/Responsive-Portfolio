@@ -258,7 +258,7 @@ body {
            
        }
        .Image1 .Technology{
-        top:56px;
+        top:65px;
        }
        
        .Image2{
@@ -268,7 +268,7 @@ body {
        }
        .Image2 .DStructure{
             right:180px;
-            top:55px;
+            top:65px;
 
         }
 
@@ -280,7 +280,7 @@ body {
         
         .Image3 .Javascript{
          left:3px;
-         bottom:-190px;
+         bottom:-210px;
         }
 
         .Image4{
@@ -290,7 +290,7 @@ body {
 
         }
         .Image4 .ComputerSC{
-        top: 155px;
+        top: 185px;
         right: 180px;
         }
 
@@ -301,14 +301,15 @@ body {
        }
 
        .Image5 .Cascadings{
-         top:260px;
-         right: 350px;
+         top:300px;
+         right: 355px;
        }
     
 
 
 
 }
+
 
 
     
@@ -341,6 +342,7 @@ body {
        width:120%;
        padding-right:600px;
        
+       height:500px;
        
    }
    .about{
@@ -355,13 +357,12 @@ body {
    }
    h1{
        position:static;
-       
-       margin-left: 30px;
+        margin-left: 30px;
    }
 
    footer{
        width:75%;
-
+       
        
    }
 
@@ -369,6 +370,8 @@ body {
        width:40%;
       
        }
+      
+    
 
        .E{
            width:50%;
@@ -381,59 +384,69 @@ body {
 
        .G{
         width:40%;
-        margin-left:-80px;
+        margin-left: -80px;
+        padding: 20px;
+        height:780px;
+
         
     }
 
     .Image1{
-       weight:500px; 
-       height: 100%;
-    }
+       width:80%;
+     }
+
     .Image1 .Technology{
-     top:56px;
+     top:160px;
     }
     
     .Image2{
-        right: -100px;
-        width:500px;
+
+        width:80%;
+        right:-100px;
+        
     }
     .Image2 .DStructure{
-         right:180px;
-         top:55px;
+         right:55px;
+         top:165px;
 
      }
 
      .Image3{
-     width:500px;
+     width:80%;
      left:1px;
      top:30px;
+     
      }
      
      .Image3 .Javascript{
-      left:3px;
-      bottom:-190px;
+      left:1px;
+      bottom:-400px;
      }
 
      .Image4{
-         width:500px;
+         width:80%;
          left:100px;
-         top:50px;
+         top:30px;
+        
+         }
 
-     }
      .Image4 .ComputerSC{
-     top: 155px;
-     right: 180px;
+           top: 375px;
+           right: 55px;
      }
 
     .Image5{
-        width:500px;
+        width:80%;
         top:40px;
         right:-1px;
+        
+        
     }
 
     .Image5 .Cascadings{
-      top:260px;
-      right: 350px;
+      top:585px;
+      right: 225px;
+      
     }
  
 
@@ -492,7 +505,7 @@ body {
 
       footer{
           width:65%;
-
+          
           
       }
 
@@ -510,9 +523,105 @@ body {
           input{
               width:100%;
           }
-      
-      
-      
+
+
+          .G{
+            width: 30%;
+            margin-left:-80px;
+            padding:20px;
+            padding-bottom: 150px;
+            height:1000px;
+            margin-left:20px;
+            padding-right:1px;
+        
+           
+        }
+
+    .Image1{
+        width:70%; 
+        padding-top:10px;
+        
+        
+     }
+     .Image1 .Technology{
+      top:150px;
+     }
+
+     .Technology{
+        letter-spacing: 9.5px;
     }
+
+     
+     .Image2{
+         right:0px;
+         width:70%;
+         top:20px;
+     }
+     .Image2 .DStructure{
+          right:17px;
+          top:335px;
+          
+     }
+      
+     .DStructure{
+        letter-spacing: 9.5px;
+    }
+
+ 
+      .Image3{
+      width:70%;
+      left:1px;
+      top:40px;
+      
+      }
+      
+      .Image3 .Javascript{
+       left:0px;
+       bottom:-550px;
+      }
+
+      .Javascript{
+        letter-spacing: 8.5px;
+    }
+ 
+      .Image4{
+          width:70%;
+          left:0px;
+          top:60px;
+         }
+
+      .Image4 .ComputerSC{
+          top: 720px;
+           right: 0px;
+      }
+
+      .ComputerSC{
+          letter-spacing: 10.5px;
+      }
+ 
+
+     .Image5{
+         width:70%;
+         top:80px;
+         right:-1px;
+         
+         
+     }
+ 
+     .Image5 .Cascadings{
+       top:910px;
+       right: 1px;
+       
+     }
+      .Cascadings{
+        letter-spacing: 11px;
+      }
+ 
+  }
+ 
+      
+      
+      
+    
 
        
